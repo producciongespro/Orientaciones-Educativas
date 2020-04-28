@@ -57,12 +57,7 @@
   100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 
- .w3-container{
-    margin: 0 25px 0 25px !important;
-   
-    height: auto;
-    
- }
+
  .zoom{
    margin-left: 25px;
  }
